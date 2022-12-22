@@ -19,8 +19,7 @@
 
 </details>
  
-<details open>
-<summary>Contacts</summary>
+## 🔗 Connect with me
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/kiceax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiceax" height="30" width="40" /></a>
@@ -29,28 +28,31 @@
 <a href="https://www.leetcode.com/karazakuulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Isko21" height="30" width="40" /></a>
 <a href="https://discord.gg/Akashi/#5251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
-</details>
 
-<details open>
-<summary>Skills</summary>
+
+## ⚒️ Languages and Tools
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+ <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-original" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+ <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+ <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> 
+ <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
+ <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
+ <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
+
+
 </p>
-</details>
   
-<details open>
-<summary>Milestone</summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karazakoff&show_icons=true&locale=en&layout=compact" alt="Karazakoff" /></p>
+## 📊 Leetcode Stats
 <p align="center"><img src="https://leetcard.jacoblin.cool/karazakuulu?animation=true"></p>
+
+## &#x1f4c8; GitHub Stats
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karazakoff&show_icons=true&locale=en&layout=compact" alt="Karazakoff" /></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karazakoff&show_icons=true&hide_border=true" alt="animated" />
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karazakoff&" alt="Karazakoff" /></p>
 
-</details>

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Yunus Karazak</h1>
 <h3 align="center">Data Scientist 👨‍💻 & LeetCoder 💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Karazakoff&label=Profile%20views&color=0e75b6&style=flat" alt="Karazakoff" /> </p>
-
 <details open>
 <summary>About me</summary>
 
@@ -47,7 +46,7 @@
 <details open>
 <summary>Milestone</summary>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karazakoff&show_icons=true&locale=en&layout=compact" alt="Karazakoff" /></p>
-
+<p align="center"><img src="https://leetcard.jacoblin.cool/karazakuulu?animation=true"></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karazakoff&show_icons=true&hide_border=true" alt="animated" />
 </p>

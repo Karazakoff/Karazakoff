@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Karazakoff)
 
-- 💬 Ask me about **anything about CP**
-
 - 📫 How to reach me **karazakoff@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yunuska/)
